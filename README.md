@@ -1,6 +1,6 @@
 # ProjectPhoenix
 ---------------------
-This website was built by a team of 4 individuals named Aamir, Ajmal, Arpit, and Nirbhay. The website was built using HTML, CSS, JavaScript, and Bootstrap. The team worked together to create a website with a fabulous landing page, shop page, login page, menu page, signup page, contact us page, and more. Netlify Link: [pheonixcoffeehouse.netlify.app]([https://pheonixcoffeehouse.netlify.app](https://phoenixcoffeehouse.netlify.app)/)
+This website was built by a team of 4 individuals named Aamir, Ajmal, Arpit, and Nirbhay. The website was built using HTML, CSS, JavaScript, and Bootstrap. The team worked together to create a website with a fabulous landing page, shop page, login page, menu page, signup page, contact us page, and more. Netlify Link: [pheonixcoffeehouse.netlify.app]([https://pheonixcoffeehouse.netlify.app]
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Features
